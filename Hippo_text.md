@@ -1,10 +1,10 @@
 Hipplodocus
 >:(
 "Sand stom activate"
->tentative de conflit
+aubry_virus_aubry
 >oui
 >
->non
+essai conflit
 
 allez
 
