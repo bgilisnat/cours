@@ -1,5 +1,9 @@
 Hipplodocus
 >:(
 "Sand stom activate"
+>tentative de conflit
+>oui
+>
+>non
 
-à mi de teneter une modif (JF)
+allez
