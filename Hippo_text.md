@@ -1,4 +1,10 @@
 Hipplodocus
 >:(
 "Sand stom activate"
-Use eathquake
+>tentative de conflit
+>oui
+>
+>non
+
+allez
+
